@@ -11,7 +11,9 @@ const config: QuartzConfig = {
     pageTitle: "Blog frfr",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "plausible",
+    },
     locale: "en-AU",
     baseUrl: "https://nottaro.github.io/blog/",
     ignorePatterns: ["private", "templates", ".obsidian"],
