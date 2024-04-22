@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-AU",
-    baseUrl: "nottaro.github.io/blog",
+    baseUrl: "https://nottaro.github.io/blo/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
