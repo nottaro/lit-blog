@@ -1,5 +1,6 @@
 ---
 title: The Blog frfr
-date: 2024-04-22
+date: 2024-04-21
 ---
-among us in real life
+
+[Lit.md](Post/Lit.md)
