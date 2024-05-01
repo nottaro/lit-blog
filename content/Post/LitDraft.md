@@ -46,7 +46,36 @@ Now, this is an interesting poem. [An Identity CV](https://www.poetryinternation
 
 So the thing is, in this poem, Ouyang has a very harsh view of himself, perhaps in satire, to ridicule the social expectations of refugees/immigrants. 
 
-He describes himself as a "cross-cultural fucker", and as "someone australia will regret to have". Again, the high modality language of "fucker" imply that being cross-cultural is undesirable, but by who? Well, "fucker" is a colloquialism used by Australians to insult someone, so he could be looking at himself as an immigrant, from a white Australian's point of view. 
+He labels himself as a "cross-cultural fucker", and as "someone australia will regret to have". Again, the high modality language of "fucker" imply that being cross-cultural is undesirable, but by who? Well, "fucker" is a colloquialism used by Australians to insult someone, so he could be looking at himself as an immigrant, from a white Australian's point of view. Perhaps he expresses himself as "someone australia will regret to have" because of this, because of his refusal to reject his culture and fully assimilate in White Society.
+
+Further, he describes his race as 
+*"hard to define at the moment; some sort  
+of as yet unformulated new theory  
+would be needed;"*
+This could be in relation to this aforementioned whitewashing, where him being "cross-cultural" results in race/culture dysphoria. He also uses satire, in "unformulated new theory would be needed", as if nobody has ever thought have having cultural diversity, to ridicule the notion that one cannot exist in 2 cultures at once.
+(Note: Race itself is a social construct, as there is more genetic variation within groups than between them, and thus it is not widely acknowledged as a biologically valid definition.)
+
+This is elaborated on when he depicts his nationality as
+*"australian for the last couple of years;  
+chinese for the first 43; unashamed of  
+either; having a bit of problem with  
+both;"*
+Again, this notion of having a mixed identity is brought forward by Ouyang as nothing to be ashamed of, but as something that people shame him for, hence his "problem". 
+
+Another interesting thing I noticed was that "race", "nationality" and "culture" have two separate meanings, yet all of these categories in the CV are labelled as being a mixture of multiple of their respective classes. Ouyang deems this sarcastically as problematic, due to his refusal to fully assimilate into white Australia.
+
+Finally, he states, 
+*i haven’t had a decent job for the last 11  
+years; would you consider taking me on?"* 
+This closing statement is used to provide a final jab at Australian society, for their stigma against immigrants/refugees who are not qualified for work, and Ouyang's blatant acknowledgement of this speaks volumes of his disdain for these views.
+
+I would write more about this scathing commentary on white Australia society, but I am constrained by word limits, and time is a cruel mistress.
+
+Until we meet again!!!
 
 
-
+**Annotations and Notes**
+- Word Count: 1039
+- repetition of starting phrases for sentences must be changed
+- use more colloquial language
+- add more memes
