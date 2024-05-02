@@ -1,5 +1,5 @@
 ---
-title: The Blog frfr
+title: a blog of sorts
 date: 2024-04-21
 ---
 
