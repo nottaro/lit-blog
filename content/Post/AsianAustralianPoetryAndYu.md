@@ -70,6 +70,7 @@ chinese for the first 43; unashamed of
 either; having a bit of problem with  
 both;"*
 Again, this notion of having a mixed identity is brought forward by Ouyang as nothing to be ashamed of, but as something that people shame him for, hence his "problem". 
+![[did-gege-just-v0-z4bhzmml9uwc1 copy.jpeg]]
 
 Another interesting thing I noticed was that "race", "nationality" and "culture" have related meanings, and these categories in the CV are labelled as being multi-layered. Ouyang sarcastically deems this as problematic, due to his refusal to fully assimilate into white Australia.
 
