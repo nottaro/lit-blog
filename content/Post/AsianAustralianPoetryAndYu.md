@@ -1,5 +1,5 @@
 ---
-title: Asian Australia Poetry and Yu
+title: Asian Australian Poetry and Yu
 ---
 
 > [!quote] "A poet, when dead, can’t write poetry. That's how important. Life and poetry, life poetry, live poetry. That’s what life is all about and that's what poetry is all about. The kind of poetry I see these days is so dead." - Ouyang Yu, June 23, 2011
@@ -15,7 +15,7 @@ Dr Ouyang Yu (Phd in Aus Lit), has many poems, ranging from criticisms of immigr
 However, I highly recommend you have a look at his other anthologies too. I've provided a link to the poems discussed, but a list of his works can be found [here](https://www.poetryinternational.com/en/poets-poems/poets/poet/102-684_Yu)
 ![[8ntbiz.jpg]]
 
-Australia is no stranger to refugees and immigrants, with over 7.6 migrants living in Australia ([source](https://www.abs.gov.au/statistics/people/population/migration-australia/latest-release)). However, you may remember the "Stop The Boats" movement, initiated by current PM Tony Abbot, as a "decent, humane and compassionate" action against refugees ([source](https://www.bbc.com/news/world-australia-64898507)). This supported the stigma against refugees and migrants, that was already prevalent in Australia, a predominantly Caucasian country, and provides an example of frequent discrimination against immigrants and refugees.
+Australia is no stranger to refugees and immigrants, with over 7.6 migrants living in Australia ([source](https://www.abs.gov.au/statistics/people/population/migration-australia/latest-release)). However, you may remember the "Stop The Boats" movement, initiated by former PM Tony Abbot, as a "decent, humane and compassionate" action against refugees ([source](https://www.bbc.com/news/world-australia-64898507)). This enforced the stigma against refugees and migrants, that was already prevalent in Australia, a predominantly Caucasian country, and provides an example of frequent discrimination against immigrants and refugees.
 ![[_129017665_8c7f685a-536a-4563-8c41-bb6bb6de367f 1.jpg]]
 
 The main idea of the poems I'll be discussing revolves around Ouyang's scathing criticisms on white Australia society, and their stigma towards immigrants and refugees, and their cultures

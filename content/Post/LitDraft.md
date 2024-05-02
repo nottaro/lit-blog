@@ -1,5 +1,5 @@
 ---
-title: Asian Australia Poetry and Yu
+title: Asian Australian Poetry and Yu
 ---
 
 > [!quote] "A poet, when dead, can’t write poetry. That's how important. Life and poetry, life poetry, live poetry. That’s what life is all about and that's what poetry is all about. The kind of poetry I see these days is so dead." - Ouyang Yu, June 23, 2011
